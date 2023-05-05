@@ -1,10 +1,10 @@
 # laravel-install
-git clone https://github.com/gustavodscruz/sistema-gerenciador.git
-cd <nome da pasta>
-code . (é para abrir o vs code)
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-npm run dev
-php artisan serve
+<h3>1) git clone https://github.com/gustavodscruz/sistema-gerenciador.git</h3><br>
+<h3>cd <nome da pasta></h3><br>
+<h3>code . (é para abrir o vs code)</h3><br>
+<h3>composer install</h3><br>
+<h3>cp .env.example .env</h3><br>
+<h3>php artisan key:generate</h3><br>
+<h3>php artisan migrate</h3><br>
+<h3>npm run dev</h3><br>
+<h3>php artisan serve</h3>
